@@ -1,4 +1,4 @@
-### Live Site --> https://netflix-clone-cybervion.web.app/
+### Live Site --> https://netflix-clone-cybervion.web.app/     (use other browser if chrome doesn't allow the url to open)
 
 ## `LIVE VIDEO` ⬇️
 
